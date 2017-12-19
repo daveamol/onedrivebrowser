@@ -1,0 +1,18 @@
+.loading {
+    position: fixed;
+    top: 0; right: 0;
+    bottom: 0; left: 0;
+    top: 50%;
+}
+
+.horizontal-scroll-hidden {
+    overflow-x: hidden;
+}
+
+.file-link {
+    color: inherit;
+}
+
+.icon-size {
+    font-size: 1rem;
+}

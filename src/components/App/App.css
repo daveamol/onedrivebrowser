@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.App-icon {
+  margin: 0 auto;
+}
+
+.logout-button {
+  position: absolute !important;
+    top: 40px;
+    right: 10px;
+}
